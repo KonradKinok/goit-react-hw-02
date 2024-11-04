@@ -4,7 +4,7 @@ Link do repozytorium:
 https://github.com/KonradKinok/goit-react-hw-02
 
 Link do Vercel:
-https://goit-react-hw-01-dun-pi.vercel.app/
+https://goit-react-hw-02-three-indol.vercel.app/
 
 # React + Vite
 
